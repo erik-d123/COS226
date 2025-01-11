@@ -11,7 +11,7 @@ Topics covered can be found [here](https://www.cs.princeton.edu/courses/archive/
 
 ### Java Assignments
 
-Most of the dependencies that I used are contained within the course's algs4.jar. This can be found, along with installation instructions, [at this link](https://algs4.cs.princeton.edu/code). The same link also has any needed java programs and libraries that may not be in the .JAR file. Note at times are commenting is entirely inconsistent, this depends on how "over" each assignment I was :D
+Most of the dependencies that I used are contained within the course's algs4.jar. This can be found, along with installation instructions, [at this link](https://algs4.cs.princeton.edu/code). The same link also has any needed java programs and libraries that may not be in the .JAR file.
 
  <table style="width:100%">
   <tr>
